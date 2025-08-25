@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background: linear-gradient(120deg, #fff 0%, #fef1f7 100%);
+  font-family: 'Nunito', sans-serif;
+  color: #22223B;
+}
+.card-glow {
+  box-shadow: 0 8px 24px 0 #c7027640;
+}
